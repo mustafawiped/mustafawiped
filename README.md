@@ -12,7 +12,7 @@
     <h5><pre> ● C#    ● Kotlin    ● Java    ● Lua    ● HTML/CSS    ● Python</pre></h5>
     <hr>
     <img src="https://streak-stats.demolab.com/?user=mustafawp">
-    <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&show_icons=true&theme=radical" >
+    <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&show_icons=true&theme=radical" width="300px" height="300px">
     <hr>
 </div>
 
