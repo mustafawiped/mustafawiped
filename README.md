@@ -1,5 +1,5 @@
-<h1 align="center">Hello, Welcome to my Profile!</h1>
-<h3 align="center">I am Mustafa Gur and seventeen old</h3>
+<h1 align="center">Welcome!</h1>
+<h3 align="center">Hello, I am Mustafa Gur and seventeen old</h3>
 <a href="https://github.com/mustafawp?tab=repositories"><strong><center>Click to see my projects »</center></strong></a>
 <h3 align="center">And...</h3>
 <center>
