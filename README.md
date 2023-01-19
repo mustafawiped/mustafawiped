@@ -9,10 +9,10 @@
     <hr>
     <h3 align="center">Languages:</h3>
     <ul>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> Developer</li>
-        <li><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> Developer</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Developer</li>
-        <li><img src="https://www.lua.org/images/lua-logo.gif" alt="lua" width="40" height="40"> Developer</li>
+        <li style="display: inline;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> Developer</li>
+        <li style="display: inline;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> Developer</li>
+        <li style="display: inline;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Developer</li>
+        <li style="display: inline;"><img src="https://www.lua.org/images/lua-logo.gif" alt="lua" width="40" height="40"> Developer</li>
     </ul>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&show_icons=true&theme=gradient">
