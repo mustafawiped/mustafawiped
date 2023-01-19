@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">Hello, I am Mustafa Gur and seventeen old</h3>
-<a href="https://github.com/mustafawp?tab=repositories" style="align=center;"><strong>Click to see my projects »</strong></a>
+<a href="https://github.com/mustafawp?tab=repositories" style="text-align=center;"><strong>Click to see my projects »</strong></a>
 <h3 align="center">And...</h3>
 <center>
 <a href="https://www.github.com/mustafawp" align="center"><img src="https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link"></a>
