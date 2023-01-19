@@ -1,9 +1,4 @@
-<style>
-    li.liste {
-    float: left;
-    margin-left: 30px;
-    }
-</style>
+<link rel="stylesheet" href="readme.css">
 <h1 align="center">Welcome!</h1>
 <div align="center">
     <h3 align="center">Hello, I am Mustafa Gur and seventeen old</h3>
