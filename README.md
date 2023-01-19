@@ -11,8 +11,8 @@
     <h3>Languages;</h3>
     <h5><pre> ● C#    ● Kotlin    ● Java    ● Lua    ● HTML/CSS    ● Python</pre></h5>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&show_icons=true&theme=gradient">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
+    <img src="https://streak-stats.demolab.com/?user=mustafawp">
+    <img src="https://github-readme-stats.vercel.app/api?username=mustafawp">
     <hr>
 </div>
 
