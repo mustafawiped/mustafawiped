@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="readme.css">
 <h1 align="center">Welcome!</h1>
 <div align="center">
-    <h3 align="center">Hello, I am Mustafa Gur and seventeen old</h3>
     <a href="https://github.com/mustafawp?tab=repositories"><strong>Click to see my projects »</strong></a>
     <h3 align="center">And my social media</h3>
     <center>
