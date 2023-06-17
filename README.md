@@ -7,7 +7,7 @@
     <hr>
          <h3 align="center">About</h3>
     <center>
-        <span>I enjoy developing cross-platform and Android mobile applications. Additionally, I build websites using Vue.js.</span>
+        <span>I enjoy developing cross-platform and Android mobile applications. Additionally, I developing websites using Vue.js.</span>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&theme=dark&show_icons=true">
     <img src="https://streak-stats.demolab.com?user=mustafawp&theme=highcontrast&border_radius=4.7&background=000000)](https://git.io/streak-stats">
