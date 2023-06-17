@@ -12,7 +12,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="center"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a></center></h5><center>
     <a href="https://vuejs.org" align="center"><img src="https://img.shields.io/badge/-Vue.js-green"></a></center></h5><center>
     <a href="https://www.lua.org" align="center"><img src="https://img.shields.io/badge/-Lua-blueviolet"></a></center></h5>
-    <h3 align="center">Socials</h3>
+    <h3 align="center">Socials;</h3>
     <center>
     <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center>
     <hr>
