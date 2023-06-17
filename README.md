@@ -24,9 +24,9 @@ I enjoy developing cross-platform and Android mobile applications. Additionally,
 
 ## Projects
 
-- [Project 1](https://github.com/mustafawp/CalculatorTool): A cross-platform mobile application where you can perform calculations.
-- [Project 2](https://github.com/mustafawp/MarketApp): A mobile application where you can manage the food in your home.
-- [Project 3](https://github.com/mustafawp/BookSalesApp): A desktop application where books can be purchased.
+- [CalculatorTool](https://github.com/mustafawp/CalculatorTool): A cross-platform mobile application where you can perform calculations.
+- [MarketApp](https://github.com/mustafawp/MarketApp): A mobile application where you can manage the food in your home.
+- [BookSalesApp](https://github.com/mustafawp/BookSalesApp): A desktop application where books can be purchased.
 
 ---
 
