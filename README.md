@@ -4,7 +4,7 @@ I'm Mustafa. I enjoy developing cross-platform and Android mobile applications. 
 ---
 ## Languages
 ---
-    [![C#](https://img.shields.io/badge/-C%23-blue)](https://csharp-lang.org)
+    [C#](https://img.shields.io/badge/-C%23-blue)](https://csharp-lang.org)
     [![Python](https://img.shields.io/badge/-Python-yellow)](https://www.python.org)
     [![Dart](https://img.shields.io/badge/-Dart-blue)](https://dart.dev)
     [![Flutter](https://img.shields.io/badge/-Flutter-blue)](https://flutter.dev)
