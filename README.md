@@ -2,7 +2,13 @@
 <div align="center">
     <a href="https://github.com/mustafawp?tab=repositories"><strong>Click to see my projects »</strong></a>
     <h3>Languages;</h3>
-    <h5><pre> ● C#    ● Kotlin    ● Java    ● Dart    ● Flutter    ● Python    ● JS    ● Lua    ● Vue.js    ● HTML/CSS</pre></h5>
+    <h5><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center><center>
+    <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center></h5>
     <h3 align="center">And my social media</h3>
     <center>
     <a href="https://www.instagram.com/mustafawiped" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center>
