@@ -2,7 +2,6 @@
 <h1 align="center">Hello 👋</h1>
 <div align="center">
     <a href="https://github.com/mustafawp?tab=repositories"><strong>Click to see my projects »</strong></a>
-    <hr>
     <h3>Languages;</h3>
     <h5><pre> ● C#    ● Kotlin    ● Java    ● Flutter    ● Dart    ● Python    ● JS    ● Lua    ● Vue.js</pre></h5>
     <hr>
