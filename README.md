@@ -15,7 +15,7 @@
     <center>
     <a href="https://www.instagram.com/mustafawiped" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/instagram.svg"></a></center><center>
     <a href="https://twitter.com/mustafawiped" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg"></a></center><center>
-    <a href="https://www.linkedin.com/in/mustafa-g%C3%BCr-39a075292/"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg"></a></center>
+    <a href="https://www.linkedin.com/in/mustafawiped/"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg"></a></center>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=mustafawp&theme=dark&show_icons=true">
     <img src="https://streak-stats.demolab.com?user=mustafawp&theme=highcontrast&border_radius=4.7&background=000000)](https://git.io/streak-stats">
