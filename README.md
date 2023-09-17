@@ -3,7 +3,7 @@
     <a href="https://github.com/mustafawp?tab=repositories"><strong>Click to see my projects »</strong></a>
     <h3>Languages;</h3>
     <h5><center>
-    <a href="https://csharp-lang.org" align="center"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg"></a></center><center>
+    <a href="https://csharp-lang.org" align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg"></a></center><center>
     <a href="https://www.python.org" align="center"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg"></a></center><center>
     <a href="https://dart.dev" align="center"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/dart-colored.svg"></a></center><center>
     <a href="https://flutter.dev" align="center"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flutter-colored.svg"></a></center><center>
