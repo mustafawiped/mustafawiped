@@ -7,10 +7,10 @@
     <a href="https://www.python.org" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg"></a></center><center>
     <a href="https://dart.dev" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/dart-colored.svg"></a></center><center>
     <a href="https://flutter.dev" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flutter-colored.svg"></a></center><center>
-    <a href="https://kotlinlang.org" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg"></a></center><center>
-    <a href="https://www.java.com" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg"></a></center><center>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg"></a></center></h5><center>
-    <a href="https://react.dev" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg"></a></center></h5><center>
+    <a href="https://kotlinlang.org" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg"></a></center>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg"></a></center><center>
+    <a href="https://react.dev" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg"></a></center><center>
+    <a href="https://www.java.com" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg"></a></center></h5>
     <h3 align="center">Socials;</h3>
     <center>
     <a href="https://www.instagram.com/mustafawiped" align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/instagram.svg"></a></center><center>
