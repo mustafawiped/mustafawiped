@@ -1,8 +1,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafawp&layout=compact&theme=dark&hide_border=true">
 
-I am Mustafa, i am app and web developer
+I'm Mustafa, an application and web developer
 
-these are the technologies i use..
+These are the technologies I use.
 <div>
     <h5>
     <a href="https://csharp-lang.org" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg"></a>
