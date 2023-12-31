@@ -1,8 +1,5 @@
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mustafawp&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafawp&layout=compact&theme=dark&hide_border=true">
 
-<h1 >Hello👋</h1>
 I am Mustafa, i am app and web developer
 
 these are the technologies i use..
