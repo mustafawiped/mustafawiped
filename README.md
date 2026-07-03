@@ -2,8 +2,6 @@
 
 # Hello, this is mw
 
-<img src="https://mustafawiped.me/profile.jpg" alt="Typing JPG" />
-
 </div>
 
 <div align="center">
