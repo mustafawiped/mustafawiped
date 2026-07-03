@@ -48,7 +48,3 @@ class AboutMe {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahtas0&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
-</div>
