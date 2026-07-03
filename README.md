@@ -39,16 +39,6 @@ class AboutMe {
 }
 ```
 
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafawiped0&custom_title=MW's%20GitHub%20Activity%20Graph%20(3D%20Style)&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=false&radius=16" alt="3D Activity Graph" />
-</div>
-
----
-
 ## 🐍 Animated Contribution Snake
 
 <div align="center">
