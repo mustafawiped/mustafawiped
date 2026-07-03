@@ -1,15 +1,66 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafawiped&layout=compact&theme=dark&hide_border=true">
+<div align="center">
 
-I'm Mustafa, an application and web developer
+# Hello, this is mw
 
-These are the technologies I use.
-<div>
-    <h5>
-    <a href="https://csharp-lang.org" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/csharp-colored.svg"></a>
-    <a href="https://www.python.org""><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg"></a>
-    <a href="https://dart.dev" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/dart-colored.svg"></a>
-    <a href="https://flutter.dev" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flutter-colored.svg"></a>
-    <a href="https://kotlinlang.org" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg"></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg"></a>
-    <a href="https://react.dev" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg"></a>
-    <a href="https://www.java.com" ><img width="30" height="30" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg"></a></h5>
+<img src="https://mustafawiped.me/profile.jpg" alt="Typing JPG" />
+
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=2E97F7&center=true&vCenter=true&width=500&lines=Flutter+Developer;Full-Stack+Developer;DevOps;Mobile+Developer;Back-end+Developer;System+Developer)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 Hakkımda
+
+```dart
+class AboutMe {
+  final String name = "Mustafa Gür";
+  final String role = "Full Stack & Mobile Developer | DevOps | Flutter / Node.js / Bun.js / Docker / Kubernetes";
+  final int experience = 4; 
+  final int projectsCompleted = 12;
+  final double customerSatisfaction = 1.0; 
+  
+  List<String> currentFocus = [
+    "Mobile Development (iOS, Android)",
+    "Full-Stack Architecture (BLoC Pattern)",
+    "State Management (Riverpod, Provider, BLoC)",
+    "GraphQL & REST API Design",
+    "Cloud Infrastructure (Coolify, Hetzner, GCP)",
+    "System Design"
+  ];
+  
+  String currentlyWorkingOn = "Freelancer";
+  
+  Map<String, String> reachMe = {
+    "email": "mustafawiped@proton.me",
+    "linkedin": "linkedin.com/in/mustafagur06/",
+    "bionluk": "https://bionluk.com/mustafawiped"
+  };
+}
+```
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafawiped0&custom_title=MW's%20GitHub%20Activity%20Graph%20(3D%20Style)&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=false&radius=16" alt="3D Activity Graph" />
+</div>
+
+---
+
+## 🐍 Animated Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahtas0&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
+</div>
