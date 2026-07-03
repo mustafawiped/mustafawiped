@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, this is mw
+# Hello, This Is MW
 
 </div>
 
@@ -10,11 +10,11 @@
 
 </div>
 
-## 🚀 Hakkımda
+## About Me
 
 ```dart
 class AboutMe {
-  final String name = "Mustafa Gür";
+  final String name = "Mustafa Gur";
   final String role = "Full Stack & Mobile Developer | DevOps | Flutter / Node.js / Bun.js / Docker / Kubernetes";
   final int experience = 4; 
   final int projectsCompleted = 12;
