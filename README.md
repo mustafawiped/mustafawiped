@@ -14,22 +14,21 @@
 
 ```dart
 class AboutMe {
-  final String name = "Mustafa Gur";
-  final String role = "Full Stack & Mobile Developer | DevOps | Flutter / Node.js / Bun.js / Docker / Kubernetes";
-  final int experience = 4; 
-  final int projectsCompleted = 12;
+  final String name = "mustafawiped";
+  final String role = "Full Stack Developer | DevOps | Flutter / Next.js / Express.js / .NET / Docker";
+  final int experience = 5; 
+  final int projectsCompleted = +30;
   final double customerSatisfaction = 1.0; 
   
   List<String> currentFocus = [
-    "Mobile Development (iOS, Android)",
     "Full-Stack Architecture (BLoC Pattern)",
     "State Management (Riverpod, Provider, BLoC)",
     "GraphQL & REST API Design",
     "Cloud Infrastructure (Coolify, Hetzner, GCP)",
-    "System Design"
+    "Cloudflare Workers"
   ];
   
-  String currentlyWorkingOn = "Freelancer";
+  String currentlyWorkingOn = "Freelancer, On site, Hybrit";
   
   Map<String, String> reachMe = {
     "email": "mustafawiped@proton.me",
